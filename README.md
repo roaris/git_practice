@@ -10,3 +10,7 @@
 ・`HEAD@{n}` : n個前  
 ・`HEAD^` : 1つ前  
 ・`HEAD^^` : 2つ前  
+
+
+## CONFLICT
+Current Changeがmasterでの変更で、Incoming Changeが作業ブランチでの変更  
